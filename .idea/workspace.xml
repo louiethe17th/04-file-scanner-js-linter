@@ -8,6 +8,17 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
   </component>
   <component name="RunManager">
+    <configuration name="FileScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.FileScanner" />
+      <module name="04-file-scanner-js-linter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -49,5 +60,10 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileScanner" />
+      </list>
+    </recent_temporary>
   </component>
 </project>
